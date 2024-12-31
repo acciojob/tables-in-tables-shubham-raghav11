@@ -1,2 +1,26 @@
 
-/* Your CSS Code here. */
+ /* Your CSS Code here. */
+td{
+border : 1px solid black;
+	text-align:center;
+}
+th{
+	border: 1px solid black;
+}
+table{
+border : 1px solid black;
+	width:100%;
+}
+
+/* ul{
+	border: 1px solid black;
+} */
+
+#head{
+	text-align:center;
+}
+
+#color{
+	background-color:black;
+	color : white;
+}
